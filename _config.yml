@@ -28,7 +28,7 @@ instagram_username: tensile_labs
 github_username:  Tensile-Labs
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
