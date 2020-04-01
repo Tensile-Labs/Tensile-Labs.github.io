@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Profile Editor is born"
+title: "The prEditor is born"
 date: "2020-04-01 15:32"
 categories: [Development]
 ---
