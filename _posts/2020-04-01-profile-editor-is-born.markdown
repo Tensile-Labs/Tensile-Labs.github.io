@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "A new "Profile Editor for Beam Structures" is born"
+title: "Profile Editor is born"
 date: "2020-04-01 15:32"
 categories: [Development]
 ---
